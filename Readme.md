@@ -1,6 +1,6 @@
-Resource: <br/>
-https://www.w3schools.com/postgresql/index.php <br/>
-https://www.postgresql.org/docs/current/tutorial.html
+> **Resource:** 
+> - **https://www.w3schools.com/postgresql/index.php**
+> - **https://www.postgresql.org/docs/current/tutorial.html**
 
 
 ### Create a new table, add a column to an existing Table
